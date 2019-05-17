@@ -88,7 +88,7 @@ The final model architecture (model.py lines 75-98) consisted of a convolution n
 
 Here is a visualization of the architecture (note: visualizing the architecture is optional according to the project rubric)
 
-![CNN][./report-images/CNN.jpg]
+![CNN][https://github.com/raikarv/Behavioral-Cloning/tree/master/report-images/CNN.jpg] "Model Architecture"
 
 #### 3. Creation of the Training Set & Training Process
 
